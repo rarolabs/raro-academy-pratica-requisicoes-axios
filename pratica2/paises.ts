@@ -4,6 +4,7 @@
  * a) Inicialize o NPM no projeto, se for necessário
  * b) Instale o typescript como uma dependencia de desenvolvimento, se for necessário
  * c) Instale a biblioteca 'axios' como uma dependencia de produção, se for necessário
+ *    Documentação: https://www.npmjs.com/package/axios 
  * d) Nessa prática trabalharemos com a API do IBGE para consulta de dados de países.
  *    Documentação: https://servicodados.ibge.gov.br/api/docs/paises
  * 

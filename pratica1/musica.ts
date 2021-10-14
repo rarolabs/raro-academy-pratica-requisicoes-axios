@@ -4,6 +4,8 @@
  * a) Inicialize o NPM no projeto 
  * b) Instale o typescript como uma dependencia de desenvolvimento 
  * c) Instale a biblioteca 'axios' como uma dependencia de produção
+ *    Documentação: https://www.npmjs.com/package/axios 
+ * 
  * d) Utilize o axios para consumir a API abaixo 
  * 
  *    Documentação: https://lyricsovh.docs.apiary.io/#reference/0/lyrics-of-a-song/search
